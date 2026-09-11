@@ -1,0 +1,8 @@
+[
+  "tests/test_agent_conversation.py::test_agent_status_and_template",
+  "tests/test_agent_conversation.py::test_conversational_demo_auto_baseline_and_scenario",
+  "tests/test_agent_conversation.py::test_no_data_does_not_fake_score",
+  "tests/test_field_governance.py::test_field_contract_loaded",
+  "tests/test_field_governance.py::test_missing_procurement_weight_is_blocking",
+  "tests/test_field_governance.py::test_unknown_share_preserved"
+]
